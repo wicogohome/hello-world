@@ -1,2 +1,2 @@
 # hello-world
-Try
+Today is Monday.
